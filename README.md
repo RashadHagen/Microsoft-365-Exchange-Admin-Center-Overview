@@ -419,3 +419,390 @@ This project goes over Microsoft 365’s Exchange Admin Center’s features over
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Mobile Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/0nl4JQ7.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Mobile device access (mobile tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/si2wttZ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/M5fQF6F.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/PD29Wdu.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/y5AX92v.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/twkf5Lq.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Egjcsm6.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Mobile device mailbox policy (mobile tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/2GnQEGo.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/hXZY7ns.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uIo82V5.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/oqNwvgC.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Reports Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5AfXMDu.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Mail flow (reports tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/aPzeqak.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/jExmvFZ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/mL6ZuSX.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Migration (reports tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/yC97lw3.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/iBQr5lY.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/3rt5bsQ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Outlook for Windows Usage (reports tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Sr65N9q.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Z7QjlOf.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/SgZSxso.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Insight Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/U4CG0AJ.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/8JG0SqJ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/zs0VIEH.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Public folders Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/riBRTID.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/5voIQIw.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/S3hSERo.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Organization Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/11vhRme.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Sharing (organization tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ZknGuxg.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/f8RzJ1r.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Wy8cI62.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Settings Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/PaAAfpt.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/834Y0xU.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>List view preferences (settings option).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/XhQcogh.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/BkpS3xE.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/R9ERXi9.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Mail flow (settings option).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Ihxs8ka.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/JoMYbXp.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uDy7LMf.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/j06Dmeo.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Hybrid setup (settings option).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/e0WzF0t.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/5mO0NJ0.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/3G8U0TY.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Troubleshooting Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/lSdqnxw.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Quick fixes (troubleshooting tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/cDkDPaV.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/6Ef0vew.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/eZchKHc.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Collect logs (troubleshooting tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/tPLWaUU.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/nXXHEnv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/nEMkAsX.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/pgmZNKb.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Other features Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/xB0nwcU.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/ExJOccV.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/91XdwBN.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/0JmmmA3.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/C4xMKsK.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Top-right corner options (from top left to right: Azure Cloud shell (PowerShell  (OR)  Bash)  / Notifications / Settings / Help).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/h3R8UMk.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Ni1pzE2.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/RLowenn.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/YKGOOKL.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/aAqM8Pp.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
