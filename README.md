@@ -238,3 +238,184 @@ This project goes over Microsoft 365’s Exchange Admin Center’s features over
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Connections (mail flow tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/lbjCdr3.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/tXcqpiP.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Wm0k9Ln.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>High Volume Email (Preview) (mail flow tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/TiRIbK6.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/pCutthb.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/AdLPA2f.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Alerts (mail flow tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/YWRtPtg.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/fneQTdM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/6VT0hwA.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Alert policies (mail flow tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/q4jTdId.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/HPr9mwT.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/mFDiENg.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Roles Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/QOeZVW7.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Admin roles (roles tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/sLR6zFu.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/KnXFdoA.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Ca3UhrF.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/vvnhqGD.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/gyNvgRd.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/CcXEjP6.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>User roles (roles tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Q4rBU3m.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/x0Fx8qJ.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/PEpAoxN.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Outlook web app policies (roles tab).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Aop3hYE.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/FjORyMe.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UmuDFbn.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Migration Tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/8thc4j8.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/k69tmek.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/YkvJE29.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
