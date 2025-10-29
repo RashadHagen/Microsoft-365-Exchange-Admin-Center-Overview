@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over Microsoft 365’s Exchange Admin Center’s features overall. The Exchange admin center (EAC) in Microsoft 365 is a web-based console for managing Exchange Online, allowing administrators to configure settings, manage users, and monitor service health. It's a dedicated portal for email and collaboration management within the Microsoft 365 ecosystem.  It’s key functionalities are: User and Mailbox Management, Group Management, Mail Flow Management, Protection and Security, Mailbox Migration and Reporting, Mailbox Delegated Access, Mobile Device Management, and Security and Compliance.
+This project goes over Microsoft 365’s Exchange Admin Center’s overall features. The Exchange admin center (EAC) in Microsoft 365 is a web-based console for managing Exchange Online, allowing administrators to configure settings, manage users, and monitor service health. It's a dedicated portal for email and collaboration management within the Microsoft 365 ecosystem.  It’s key functionalities are: User and Mailbox Management, Group Management, Mail Flow Management, Protection and Security, Mailbox Migration and Reporting, Mailbox Delegated Access, Mobile Device Management, and Security and Compliance.
 </b>
 
 
